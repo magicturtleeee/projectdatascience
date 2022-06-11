@@ -9,4 +9,4 @@ seleniumbase
 requests 
 re
 json
-plotly
+plotly==5.8.1
