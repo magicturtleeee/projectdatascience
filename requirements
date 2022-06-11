@@ -1,0 +1,13 @@
+plotly.express==0.4.1
+airportsdata==20220406
+matplotlib==3.5.2
+geopandas
+folium
+selenium
+webdriver-manager
+seleniumbase
+requests 
+fake_useragent
+bs4
+re
+json
