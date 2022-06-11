@@ -7,8 +7,5 @@ selenium
 webdriver-manager
 seleniumbase
 requests 
-fake_useragent
-bs4
 re
 json
-plotly
